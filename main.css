@@ -16,9 +16,8 @@ nav {
   top:0;
   left: 0;
 } 
-
+/*Con este codigo se centra la barra de navegacion*/
 .centered {
-
   width: 768px;
   margin: 0 auto;
 }

@@ -5,7 +5,7 @@ var scroll_pos = 0;
       scroll_pos = $(this).scrollTop();
       if (scroll_pos > 20) {
         $("nav").css('background-color', 'black');
-        $("nav").css('opacity', '0.7');
+        $("nav").css('opacity', '0.7');//aqui es donde se agrega la transparencia
 
       } else {
 
